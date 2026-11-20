@@ -1,0 +1,31 @@
+Passage_ID,Category,Meaning_Preserved,Factually_Accurate,Review_Notes
+P001,Cloud Computing,Yes,Yes,Meaning and factual information preserved.
+P002,Cloud Computing,No,No,Authentication and authorization meanings were changed.
+P003,Cloud Computing,Yes,Yes,Technical details and 180-day period preserved.
+P004,Cloud Computing,No,No,Definition wording changed and introduced unsupported wording.
+P005,Cloud Computing,Yes,Yes,Meaning and factual information preserved.
+P006,Cloud Computing,Yes,Yes,Resource provider definition and examples preserved.
+P007,Cloud Computing,Yes,Yes,Declarative syntax meaning and examples preserved.
+P008,Cloud Computing,Yes,Yes,ARM template purpose and deployment targets preserved.
+P009,Cloud Computing,No,No,Bicep's authoring purpose was changed to managing infrastructure.
+P010,Cloud Computing,Yes,Yes,Extension resource purpose and role assignment example preserved.
+P011,Databases,Yes,Yes,Database purpose and reasons for using a DBMS preserved.
+P012,Databases,Yes,Yes,Table organization and normalization explanation preserved.
+P013,Databases,Yes,Yes,"Forms, controls, and their uses preserved."
+P014,Databases,Yes,Yes,Query filtering and updateable query behavior preserved.
+P015,Databases,Yes,Yes,Module types and their differences preserved.
+P016,Networking,Yes,Yes,Networking fundamentals and security points preserved.
+P017,Networking,No,No,"Authentication and authorization were reduced to passwords, and VPN use was oversimplified."
+P018,Networking,Yes,Yes,Network protocol purpose and communication functions preserved.
+P019,Networking,No,No,Contains a malformed sentence and omits technical details.
+P020,Networking,No,No,DNS cache and Start of Authority explanation was oversimplified.
+P021,Security,Yes,Yes,Authentication and remote phishing explanation preserved.
+P022,Security,Yes,Yes,Network data security functions and communication timing preserved.
+P023,Security,Yes,No,Abstract classes were inaccurately described as not fully built.
+P024,Security,Yes,Yes,"Encryption behavior, packet headers, and payload details preserved."
+P025,Security,Yes,Yes,Firewall purpose and traffic filtering behavior preserved.
+P026,Software Engineering,Yes,Yes,Standardization recommendations and benefits preserved.
+P027,Software Engineering,Yes,Yes,"Tool selection, functions, and cost considerations preserved."
+P028,Software Engineering,Yes,Yes,Branching strategy and AI recommendations preserved.
+P029,Software Engineering,Yes,Yes,Code style guide and standardization recommendations preserved.
+P030,Software Engineering,Yes,Yes,Versioning and application design pattern recommendations preserved.
